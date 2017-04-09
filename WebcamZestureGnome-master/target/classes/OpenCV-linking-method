@@ -1,0 +1,7 @@
+This project does not use opencv.
+OpenCV in ubuntu if already installed may be linked to a project. 
+Its maven dependencies are missing because it is a C++ project. However, if you are able to build it on your machine,
+or have installed its binaries from synaptic, you can link it. You need to search for a opencv248.jar (or similar)
+ on your machine which should be installed as a user library in eclipse's project properties.
+Also that user library needs to link to native library location on your machine. This should contain all the opencv 
+shared library files (so files) (I found it in /usr/lib/jni). 

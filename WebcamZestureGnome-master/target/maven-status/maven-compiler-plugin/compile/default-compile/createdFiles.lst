@@ -1,0 +1,11 @@
+com\zafar\control\CommandNotFoundException.class
+com\zafar\control\Dictionary.class
+com\zafar\control\Platform.class
+com\zafar\util\Trial.class
+com\zafar\control\ControlScreen.class
+com\zafar\control\Command.class
+com\zafar\core\GestureRecogniser.class
+com\zafar\core\Configuration.class
+com\zafar\core\EnterTheZesture.class
+com\zafar\core\Direction.class
+com\zafar\control\CommandMaster.class
